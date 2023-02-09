@@ -1,0 +1,51 @@
+.header {
+    text-align: center;
+}
+
+h1 {
+    background-color: black;
+    color: lightblue;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+  }
+
+  .ptext {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+  }
+
+  .imageblock {
+    text-align: center;
+    background-color: lightblue;
+  }
+
+  .pagelinks {
+    background-color: black;
+    padding: 40px 0px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+
+  .pagelinks a {
+    background: lightblue;
+    border: 1px solid lightblue;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  .pagelinks a:hover {
+    background: white;
+    border: 1px solid blue;
+    color: lightblue;
+  }
+
+  
